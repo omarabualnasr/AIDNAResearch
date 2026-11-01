@@ -34,7 +34,7 @@ The research draws on scientific publications and academic sources to explore ex
 
 The complete research paper is available in PDF format.
 
-**[Read the Research Paper (PDF)](./Artificial%20Intelligence%20and%20DNA.pdf)**
+**[Read the Research Paper (PDF)](./AI%20and%20DNA%20Research.pdf)**
 
 ## References
 
